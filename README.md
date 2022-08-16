@@ -17,8 +17,8 @@
   ---
   
   <div style="flex">
-  <h3>Additional Information
-  <h5 align="left">
+  <h2>Additional Information
+  <h3 align="left">
   Student Accomplishment Report - 
   <a align="left" href="https://drive.google.com/file/d/176AqpXcgUpiWy1grZjXxUorvXImE-U3-/view?usp=sharing" target="_blank"> 
   View
@@ -27,7 +27,7 @@
   <a align="right" href="https://drive.google.com/file/d/1FwzlD3wWfDIw6Z7pj9MBNwyeMGxjuxJv/view?usp=sharing" target="_blank"> 
   View
   </a>
-  </h5>
+  </h3>
   </div>
   
   
