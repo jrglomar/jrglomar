@@ -7,8 +7,8 @@
   <h1 align="center">Hi, I am Raven <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
   <div> <h3> About Me </h3></div>
   
-  - 💻 I'm a software developer from Quezon City with years of experience developing different applications.
-  - 👨‍💻 You can view my CV here: <a align="right" href="https://drive.google.com/file/d/16-7CpW_QuIQ6fOTrq4U4mMkdNv0qMPqm/view?usp=sharing" target="_blank">View</a>
+  - 💻 I'm a software developer from Philippines with a years of experience developing different applications.
+  - 👨‍💻 You can view my CV <a align="right" href="https://drive.google.com/file/d/16-7CpW_QuIQ6fOTrq4U4mMkdNv0qMPqm/view" target="_blank">here</a>
   
   <p align="center">
     
