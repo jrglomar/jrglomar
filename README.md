@@ -8,7 +8,7 @@
   <div> <h3> About Me </h3></div>
   
   - 💻 I'm a software developer from Philippines with a years of experience developing different applications.
-  - 👨‍💻 You can view my CV <a align="right" href="https://drive.google.com/file/d/16-7CpW_QuIQ6fOTrq4U4mMkdNv0qMPqm/view" target="_blank">here</a>
+  - 👨‍💻 You can view my CV <a align="right" href="https://drive.google.com/file/d/1Jwc8mmLF5vTyM8qpG4wYX_EGXC-xFJ_E/view" target="_blank">here</a>
   
   <p align="center">
     
