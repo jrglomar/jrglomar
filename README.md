@@ -7,8 +7,7 @@
   <h1 align="center">Hi, I am Raven <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
   <div> <h3> About Me </h3></div>
   
-  - 💻 I'm a software developer from Philippines with a years of experience developing different applications.
-  - 👨‍💻 You can view my CV <a align="right" href="https://drive.google.com/file/d/1Jwc8mmLF5vTyM8qpG4wYX_EGXC-xFJ_E/view" target="_blank">here</a>
+  - 💻 I'm a developer from Philippines with a years of experience developing different applications.
   
   <p align="center">
     
@@ -21,7 +20,6 @@
   
   [![](https://github-readme-stats.vercel.app/api?username=jrglomar&show_icons=true&theme=material-palenight)](https://github.com/jrglomar)
   [![](https://github-readme-streak-stats.herokuapp.com/?user=jrglomar&theme=material-palenight)](https://github.com/jrglomar)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrglomar&layout=compact&theme=material-palenight)](https://github.com/jrglomar)
   
   </div>
   
